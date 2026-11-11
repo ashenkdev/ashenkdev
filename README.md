@@ -5,7 +5,7 @@ name: Ashen Kavinda
 role: Software Engineering Undergraduate | Aspiring Business Analyst
 location: Colombo, Sri Lanka
 education: BSc in Software Engineering, Saegis Campus
-focus: Full-stack web development, requirements analysis, process documentation
+focus: Full stack web development, Business analysis and Documantations
 ```
 I build full-stack web applications and I'm growing into business analysis: turning business problems into clear requirements, user stories and working software.
 
@@ -13,4 +13,20 @@ I build full-stack web applications and I'm growing into business analysis: turn
 🛠️ Tech Stack
 <div align="center"> <img src="https://skillicons.dev/icons?i=java,js,php,html,css,react,nodejs,express,mysql,mongodb,postman,git,github,vscode,notion&perline=8" alt="Tech stack" /> </div> <br/>
 
-<br/> <!-- ===================== STATS ===================== --> <div align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=ashenkdev&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashenkdev&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" /> </div> <br/> <!-- ===================== FOOTER ===================== --> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" alt="footer" /> </div> <div align="center"> <i>⭐️ Ashen Kavinda: building tomorrow, today.</i> </div>
+<br/> <!-- ===================== STATS ===================== -->
+<br/>
+
+<p align="center">
+  <a href="https://github.com/ashenkdev?tab=followers"><img src="https://img.shields.io/github/followers/ashenkdev?label=Followers&style=for-the-badge&logo=github&color=00d9ff&labelColor=0d1117" alt="GitHub followers" /></a>
+  <a href="https://github.com/ashenkdev?tab=repositories"><img src="https://img.shields.io/badge/Repositories-View%20all-00C896?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Repositories" /></a>
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" alt="footer" />
+</p>
+
+<p align="center">
+  <i>⭐️ Ashen Kavinda: building tomorrow, today.</i>
+</p>
